@@ -14,4 +14,13 @@ Programming for Data Analysis at GMIT.
 3. Click on Download as Zip
 
 ## How to open the Jupyter notebook file
-The Jupyter Notebook for this practical assignment is named "Programming_DA_Assignment.ipynb". In order to open the file in Jupyter you will have to initiate Jupiter notebood. Once after opening the Jupyter notebook file, Click on the Kernel menu and select "Restart and Rum all".
+The Jupyter Notebook for this practical assignment is named "Programming_DA_Assignment.ipynb". In order to open the file in Jupyter you will have to initiate Jupiter notebood. Once after opening the Jupyter notebook file, Click on the Kernel menu and select "Restart and Run all".
+
+## Project Plan Check List
+
+### 1. Explain the overall purpose if the package
+### 2. Explain the use of the "Simple random data" and "Permutations" functions
+### 3. Explain the use and purpose of at leave five "Distributions" functions
+### 4. Explain the use of seeds in generating psedorandom numbers
+### 5. References
+### 6. Review
