@@ -1,9 +1,9 @@
 # Programming for DataAnalysis
-## Practical Assignment for Semester 2 - 2019
-## Student Name : Sasikala Varatharajan
-## Student Number : G00376470
+### Practical Assignment for Semester 2 - 2019
+### Student Name : Sasikala Varatharajan
+### Student Number : G00376470
 
-## Assignment Topic : numpy.random package in Python.
+### Assignment Topic : numpy.random package in Python.
 
 This repository contains files for the assignment in the module 
 Programming for Data Analysis at GMIT.
@@ -18,7 +18,7 @@ The Jupyter Notebook for this practical assignment is named "Programming_DA_Assi
 
 ## Project Plan Check List
 
-### 1. Explain the overall purpose if the 
+### 1. Explain the overall purpose of the package
 - [x] Complete
 
 ### 2. Explain the use of the "Simple random data" and "Permutations" functions
