@@ -18,9 +18,16 @@ The Jupyter Notebook for this practical assignment is named "Programming_DA_Assi
 
 ## Project Plan Check List
 
-### 1. Explain the overall purpose if the package
+### 1. Explain the overall purpose if the 
+- [x] Complete
+
 ### 2. Explain the use of the "Simple random data" and "Permutations" functions
-### 3. Explain the use and purpose of at leave five "Distributions" functions
+- [x] Explain the use of the "Simple random data" function
+- [x] Explain the use of the "Permutations" function
+
+### 3. Explain the use and purpose of at leave five "Distributions" functions 
+
+
 ### 4. Explain the use of seeds in generating psedorandom numbers
 ### 5. References
 ### 6. Review
