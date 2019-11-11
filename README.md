@@ -35,6 +35,6 @@ The Jupyter Notebook for this practical assignment is named "Programming_DA_Assi
 ### 4. Explain the use of seeds in generating psedorandom numbers
 - [x] Complete
 ### 5. References
-- [] Complete
+- [x] Complete
 ### 6. Review
-- [] Complete
+- [x] Complete
