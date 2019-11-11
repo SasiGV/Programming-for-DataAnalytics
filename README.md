@@ -26,8 +26,15 @@ The Jupyter Notebook for this practical assignment is named "Programming_DA_Assi
 - [x] Explain the use of the "Permutations" function
 
 ### 3. Explain the use and purpose of at leave five "Distributions" functions 
-
+- [x] Binomial Distribution
+- [x] Normal Distribution
+- [x] Uniform Distribution
+- [x] Triangular Distribution
+- [x] Exponential Distribution
 
 ### 4. Explain the use of seeds in generating psedorandom numbers
+- [x] Complete
 ### 5. References
+- [] Complete
 ### 6. Review
+- [] Complete
